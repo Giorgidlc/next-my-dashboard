@@ -1,5 +1,5 @@
 import { PokemonCard } from '..';
-import { SimplePokemons } from '../interfaces/simple-pokemons'
+import { SimplePokemons } from '..';
 
 interface Props {
   pokemons: SimplePokemons[];

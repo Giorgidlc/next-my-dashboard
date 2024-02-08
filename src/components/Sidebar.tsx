@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { IoBrowsersOutline, IoCalculator, IoFootball, IoLogoReact } from 'react-icons/io5'
-import { SidebarMenuItem } from '@/app/components'
+import { SidebarMenuItem } from '@/components'
 
 const menuItems = [
   {
@@ -47,7 +47,7 @@ export const Sidebar = () => {
             />
           </span>
           <span className="text-sm md:text-base font-bold">
-            Edward Tompson
+            Giorgi Visual
           </span>
         </a>
       </div>
